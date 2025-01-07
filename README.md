@@ -1,6 +1,3 @@
-# Event_management_System
-
-
 # Event Management System
 
 An advanced and user-friendly Event Management System built using **HTML**, **CSS**, **C++**, **JSP**, and a blend of other web development technologies. This project provides seamless functionality to organize, manage, and participate in various events efficiently.
